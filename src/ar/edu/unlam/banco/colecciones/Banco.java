@@ -5,7 +5,7 @@ import java.util.LinkedList;
 import java.util.List;
 
 public class Banco {
-
+//Anto ok
 	private String nombre;
 	private Integer contadorCuentas = 0;
 	private ArrayList<Cuenta> cuentas = new ArrayList<Cuenta>();
